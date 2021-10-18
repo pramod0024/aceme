@@ -1,0 +1,55 @@
+
+#header-section{
+    background-color: #35424a;
+    border-bottom: 4px solid#e8491d;
+}
+.navbar-brand{
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+.navbar-brand a{
+    color: #ffffff;
+}
+
+header a{
+    color: #ffffff;
+    font-size: 1.2rem;    
+    font-weight: 450;
+}
+header a:hover{
+    color: #ffffff;
+}
+
+#home-banner{
+    background: url(../img/showcase.jpg) no-repeat 0 0;
+    background-size: cover;
+    background-position: center center;
+    min-height: 70vh;
+}
+
+#news-latter{
+    background-color: #35424A;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+.btn{
+    background-color: #E8491D;
+    color: #ffffff;
+    padding: 9px 25px;
+}
+#services img{
+    width: 90px;
+}
+#acme-footer{
+    background-color: #E8491D;
+}
+.sidebar{
+    background-color: #35424a;
+}
+.inner-service{
+    background-color: #E6E6E6;
+}
+.inner-content{
+    background-color: #35424a;
+}
